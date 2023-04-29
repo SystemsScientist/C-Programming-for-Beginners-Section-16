@@ -1,0 +1,98 @@
+
+Section 16: Course Summary
+----------------------------------------------------------------------------------
+
+Topics I
+
+	- Code::Blocks (IDE)
+
+	- basic operators 
+
+		+ logical, arithmetic, and assignment
+
+	- conditional statements
+
+		+ making decisions (if, switch)
+
+	- repeating code
+
+		+ looping (for, while, and do-while)
+
+	- arrays 
+
+		+ defining and initializing, multi-
+		  dimensional
+
+	- functions
+
+		+ declaration and use, arguments and
+		  parameters, call by value vs call 
+		  by reference
+
+	- debugging
+
+		+ call stack, common mistakes, 
+		  understanding compiler messages
+
+	- structs
+
+		+ initializing, nested structures
+
+	
+Topics II
+
+	- character strings
+
+		+ basics, arrays of chars, character
+		  operations
+
+	- pointers
+	
+		+ definition and use, using with 
+		  functions and arrays, malloc, pointer
+		  arithmetic
+
+	- preprocessor
+
+		+ #define, #include
+
+	- input and output
+
+		+ command line arguments, scanf, printf
+
+	- file input/output
+
+		+ reading and writing to a file, fgetc,
+		  fgets, fputc, fgetc, fseek, etc
+
+	- standard C library
+
+		+ string functions, math functions,
+		  utility functions, standard header
+		  files
+
+
+Course Outcomes
+
+	- you are now able to write beginner C programs
+
+	- you are now able to write efficient, high quality
+	  C code
+
+		+ modular
+
+		+ low coupling
+
+		+ naming conventions, indentation
+
+	- you are now able to find and fix your errors
+
+		+ you understand compiler messages
+
+		+ you know how to use a debugger
+
+	- you know understand the fundamental aspects of
+	  the C programming language  
+
+
+
