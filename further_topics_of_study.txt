@@ -1,0 +1,65 @@
+
+Section 16: Further Topics of Study
+--------------------------------------------------------------------------------------
+
+Further Topics of Study I
+
+	- more on data types
+
+		+ defining your own types (typedef)
+
+	- more on the preprocessor
+
+		+ string concatenation
+
+	- more on void*'s 
+
+	- static libraries and shared objects
+
+	- macros
+
+	- unions
+
+
+Further Topics of Study II
+
+	- function pointers
+
+	- advanced pointers
+
+	- variable arguments to functions (variadic functions)
+
+	- dynamic linking (dim_open)
+
+	- signals, forking and inter-process communication
+
+	- threading and concurrency
+
+	- sockets
+
+
+Further Topics of Study III
+
+	- setjmp and longjmp for restoring state
+
+	- more on memory management and fragmentation
+
+	- more on making your program portable
+
+	- interfacing with kernel modules (drivers and
+	  input/output controls, ioctl)
+
+	- more on compiler and linker flags
+
+
+Further Topics of Study IV
+
+	- advanced use of gdb
+
+	- profiling and tracing tools (gprof, dtrace,
+	  strace)
+
+	- memory debugging tools such as valgrind
+
+
+
